@@ -1,6 +1,6 @@
 # Hi, I'm Martha Correa-Delval
 
-I am a Research Software Engineer at the Advanced Research Computing department at Durham University and the UK's National Institute for Particle Physics Phenomenology.  
+I am a Research Software Engineer at the Advanced Research Computing department at Durham University and the UK's National Centre of Particle Physics.  
 My work focuses on developing, optimising, and supporting research software — from simulation frameworks to performance-critical scientific applications.
 
 I have an interdisciplinary background that combines Artificial Intelligence, simulation, and human-computer interaction.  
